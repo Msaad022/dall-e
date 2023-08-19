@@ -148,7 +148,7 @@ const CreatePost = () => {
             Once you have created the image you want, you can share it with others in the community
           </p>
           <button type="submit"
-          className="text-white bg-[#6469ff] font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5
+          className="text-white mt-3 bg-[#6469ff] font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5
           text-center">
             {loading ? 'Sharing...' : 'Share with the cimmunity'}
           </button>
